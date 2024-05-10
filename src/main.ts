@@ -12,7 +12,7 @@ app.mount('#app')
 
 const a = 100
 const fun = () => {
-  console.log('我爱你大海')
+  console.log('我爱你大海111')
 }
 
 fun()
